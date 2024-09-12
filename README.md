@@ -1,2 +1,2 @@
-# demoapp2
+# demoapp
 This is a quick demo app
